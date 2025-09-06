@@ -1,4 +1,4 @@
-# Download and Install Citrix Workspace
+# Citrix Workspace
 
 * [Installation](#installation)
 * [System Requirements](#system-requirements)
